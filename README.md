@@ -63,14 +63,14 @@
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100014280433932&mibextid=ZbWKwL" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://zaloapp.com/qr/p/wxttenlwwzxw" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/zalo.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
